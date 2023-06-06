@@ -1,7 +1,6 @@
-# Jobhun-Test
-Mohammad Ibadul Haqqi - Frontend Developer - Technical Test Jobhun Internship 2023
+# Simple List Movie
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite and get api with tvmaze.com
 
 ## Customize configuration
 
