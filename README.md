@@ -1,6 +1,6 @@
 # Simple List Movie
 
-This template should help get you started developing with Vue 3 in Vite and get api with tvmaze.com
+This template should help get you started developing with Vue 3 in Vite and get api with http://api.tvmaze.com/search/shows?q=girls
 
 ## Customize configuration
 
